@@ -1,6 +1,6 @@
 # 🚇 Lechosław
 
-**`Software .NET Engineer`**
+**`.NET Software Engineer`**
 
 As a .NET software engineer, I am dedicated to continuously enhancing my 
 skills and keeping up with the latest advancements. My main goal is to 
