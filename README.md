@@ -1,5 +1,15 @@
-### Hi there 👋
+# 🚇 Lechu0715
 
+**`Software .NET Engineer`**
+
+As a .NET software engineer, I am dedicated to continuously enhancing my 
+skills and keeping up with the latest advancements. My main goal is to 
+further develop my skills in .NET as a full-stack developer, encompassing 
+both front-end and back-end technologies. With a background in 
+management roles at Warsaw Metro, I have cultivated strong organizational 
+skills and a problem-solving mindset. I thrive on teamwork, embrace 
+challenges, and am passionate about creating impactful solutions using the 
+power of .NET.
 <!--
 **lechu0715/lechu0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
